@@ -140,3 +140,16 @@ Thumbs.db
 # ignore installers
 *.deb
 *.deb.*
+# =========================
+# Crawling / Data outputs
+# =========================
+data/*.csv
+data/*.html
+data/*.json
+data/*.txt
+
+#  Jupyter Notebook은 허용
+!data/*.ipynb
+# (선택) 샘플 노트북은 허용하고 싶으면 아래 주석 해제
+# !data/sample.ipynb
+
