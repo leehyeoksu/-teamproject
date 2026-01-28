@@ -140,3 +140,10 @@ data/*
 !data/README.md
 !data/.gitkeep
 
+
+# Data files (large files)
+application/index_generator/data/src_data/**/*.csv
+application/index_generator/data/src_data/*.csv
+
+
+

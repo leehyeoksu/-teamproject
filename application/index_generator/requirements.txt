@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional: For Track 1 sentiment analysis (track1_sentiment_score.py)
+# torch>=2.0.0
+# transformers>=4.30.0
+
+# Optional: For Track 2 sector classification (track2_sector_classification.py)
+# torch>=2.0.0
+# transformers>=4.30.0
+
+# Note: PyTorch and transformers are only needed if you want to run
+# the preprocessing scripts (track1_sentiment_score.py, track2_sector_classification.py)
+# For the main index calculation, only numpy and pandas are required.
