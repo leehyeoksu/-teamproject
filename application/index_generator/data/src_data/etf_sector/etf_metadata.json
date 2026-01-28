@@ -1,0 +1,62 @@
+{
+  "XLE": {
+    "sector": "energy",
+    "symbol": "XLE",
+    "etf_name": "Energy Select Sector SPDR Fund"
+  },
+  "XLK": {
+    "sector": "technology",
+    "symbol": "XLK",
+    "etf_name": "Technology Select Sector SPDR Fund"
+  },
+  "XLF": {
+    "sector": "financial",
+    "symbol": "XLF",
+    "etf_name": "Financial Select Sector SPDR Fund"
+  },
+  "XLV": {
+    "sector": "healthcare",
+    "symbol": "XLV",
+    "etf_name": "Health Care Select Sector SPDR Fund"
+  },
+  "XLI": {
+    "sector": "industrial",
+    "symbol": "XLI",
+    "etf_name": "Industrial Select Sector SPDR Fund"
+  },
+  "XLY": {
+    "sector": "consumer_discretionary",
+    "symbol": "XLY",
+    "etf_name": "Consumer Discretionary Select Sector SPDR Fund"
+  },
+  "XLP": {
+    "sector": "consumer_staples",
+    "symbol": "XLP",
+    "etf_name": "Consumer Staples Select Sector SPDR Fund"
+  },
+  "XLU": {
+    "sector": "utilities",
+    "symbol": "XLU",
+    "etf_name": "Utilities Select Sector SPDR Fund"
+  },
+  "XLRE": {
+    "sector": "real_estate",
+    "symbol": "XLRE",
+    "etf_name": "Real Estate Select Sector SPDR Fund"
+  },
+  "XLB": {
+    "sector": "materials",
+    "symbol": "XLB",
+    "etf_name": "Materials Select Sector SPDR Fund"
+  },
+  "XLC": {
+    "sector": "communication",
+    "symbol": "XLC",
+    "etf_name": "Communication Services Select Sector SPDR Fund"
+  },
+  "ITA": {
+    "sector": "defense",
+    "symbol": "ITA",
+    "etf_name": "iShares U.S. Aerospace & Defense ETF"
+  }
+}
